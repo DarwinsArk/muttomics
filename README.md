@@ -1,5 +1,7 @@
 # muttomics
-Repository of analysis scripts for the manuscript, "Ancestry-inclusive dog genomics challenges popular breed stereotypes".
+Repository of analysis scripts for the manuscript:
+
+"Ancestry-inclusive dog genomics challenges popular breed stereotypes"
 
 ### Input Data
 Input data files that can be found in Data Dryad at (TBD).
