@@ -1,5 +1,5 @@
 # muttomics
-Repository of analysis scripts for the manuscript:
+Repository of analysis, statistics, and plotting scripts for the manuscript:
 
 "Ancestry-inclusive dog genomics challenges popular breed stereotypes"
 
