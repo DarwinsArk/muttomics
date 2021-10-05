@@ -1,0 +1,28 @@
+qf,short,answer,group,description
+Q17,DOG howls,1,negative,rarely howls
+Q17,DOG howls,2,negative,rarely howls
+Q121,When DOG is next to someone how high are HIS shoulders,1,negative,small
+Q121,When DOG is next to someone how high are HIS shoulders,2,negative,small
+Q123,How much white fur does DOG have,1,negative,mostly or all white
+Q123,How much white fur does DOG have,2,negative,mostly or all white
+Q124,Is DOG's tail curly,1,negative,not curly
+Q125,What is DOG's ear shape,1,negative,dropped
+Q125,What is DOG's ear shape,2,negative,dropped
+Q127,How long is DOG's fur on HIS back and sides,1,negative,short
+Q54,DOG retrieves objects,1,negative,retrieves
+Q54,DOG retrieves objects,2,negative,retrieves
+Q60,DOG avoids getting wet,1,negative,avoids getting wet
+Q60,DOG avoids getting wet,2,negative,avoids getting wet
+Q17,DOG howls,4,positive,often howls
+Q17,DOG howls,5,positive,often howls
+Q121,When DOG is next to someone how high are HIS shoulders,4,positive,large
+Q121,When DOG is next to someone how high are HIS shoulders,5,positive,large
+Q123,How much white fur does DOG have,5,positive,little or no white 
+Q123,How much white fur does DOG have,6,positive,little or no white 
+Q124,Is DOG's tail curly,2,positive,curly
+Q125,What is DOG's ear shape,4,positive,pricked
+Q127,How long is DOG's fur on HIS back and sides,3,positive,long
+Q54,DOG retrieves objects,4,positive,does not retrieve
+Q54,DOG retrieves objects,5,positive,does not retrieve
+Q60,DOG avoids getting wet,4,positive,likes water
+Q60,DOG avoids getting wet,5,positive,likes water
